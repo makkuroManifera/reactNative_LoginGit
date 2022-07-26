@@ -1,0 +1,6 @@
+module Pods_LoginPage_LoginPageTests {
+  umbrella header "Pods-LoginPage-LoginPageTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
